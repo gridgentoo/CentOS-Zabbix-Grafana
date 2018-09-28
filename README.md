@@ -13,6 +13,7 @@ https://grafana.com/dashboards/7890
 Дашборд к Grafana Для ClickHouse Queries  
 https://grafana.com/dashboards/2515
 
+![Zabbix]( ttps://grafana.com/api/dashboards/3066/images/1893/image ) 
 Дашборд к Grafana  JVM overview - Prometheus  
 https://grafana.com/dashboards/3066
 
