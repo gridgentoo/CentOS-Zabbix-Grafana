@@ -1,7 +1,7 @@
 ![Zabbix]( https://github.com/shenyingkun/Linux-Zabbix-Grafana/blob/master/Zabbix.png )
 
 # Zabbix  Grafana
-
+![Zabbix]( https://grafana.com/api/dashboards/2510/images/1505/image ) 
 Дашборд к Grafana HDFS - DataNodes (Isilon)  
 https://grafana.com/dashboards/2510
 
