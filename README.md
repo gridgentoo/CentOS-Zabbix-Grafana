@@ -5,6 +5,9 @@
 Дашборд к Grafana HDFS - DataNodes (Isilon)  
 https://grafana.com/dashboards/2510
 
+Дашборд к Grafana Apache Spark on Kubernetes - Performance Metrics  
+https://grafana.com/dashboards/7890
+
 Дашборд к Grafana Для ClickHouse Queries  
 https://grafana.com/dashboards/2515
 
