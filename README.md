@@ -8,6 +8,7 @@ https://grafana.com/dashboards/2510
 Дашборд к Grafana Apache Spark on Kubernetes - Performance Metrics  
 https://grafana.com/dashboards/7890
 
+![Zabbix]( https://grafana.com/api/dashboards/2515/images/1528/image ) 
 Дашборд к Grafana Для ClickHouse Queries  
 https://grafana.com/dashboards/2515
 
